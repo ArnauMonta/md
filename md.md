@@ -31,13 +31,13 @@ El # en los encabezados el nivel de este, pueden haber hasta 6 niveles de encabe
    - Elemento 3
  
 ## Separaciones
-__
+___
 
 ## Negritas i Cursivas
 
-**Negrita** 
-*Cursiva*
-***Negrita Cursiva***
+- **Negrita** 
+- *Cursiva*
+- ***Negrita Cursiva***
 
 ## Enlaces
 [Video Markdown](https://www.youtube.com/watch?v=y6XdzBNC0_0)
